@@ -4,7 +4,6 @@ This repository contains Python scripts for machine learning tasks implemented u
 
 ## Dependencies
 
-Make sure you have Python 3.x installed on your system. You can download Python from [here](https://www.python.org/downloads/).
 
 To run the scripts in this repository,  the following Python libraries installed:
 
