@@ -37,7 +37,7 @@ The implementation consists of the following steps:
 - Evaluate the classifier's performance using metrics like accuracy, precision, recall, and F1-score.
 - Utilize cross-validation and confusion matrices for deeper insights into the model's behavior.
 
-### Integration with Raspberry Pi:
+### Integration with RaspberryPi3 :
 
 - Adapt the trained model for deployment on Raspberry Pi using libraries like TensorFlow Lite or ONNX Runtime.
 - Optimize the model for the Raspberry Pi's ARM architecture, considering factors like model size and computational complexity.
