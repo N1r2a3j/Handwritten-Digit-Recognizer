@@ -13,7 +13,7 @@ To run the scripts in this repository,  the following Python libraries installed
 - pandas
 - joblib
 - matplotlib
-## Discription
+## Description
 This project delves into developing a robust Support Vector Machine (SVM) classifier tailored for handwritten digit recognition. It extensively investigates preprocessing techniques, including normalization and denoising, to refine input image quality and enhance classification accuracy. Leveraging benchmark datasets, the SVM model is trained and evaluated, showcasing its efficacy in accurately identifying handwritten digits. A thorough analysis of classification accuracy is conducted, shedding light on the SVM model's performance, strengths, and limitations. Furthermore, the report explores potential enhancements and future research avenues, aiming to bolster the classifier's performance and scalability. By addressing fundamental challenges in pattern recognition and machine learning, this study contributes to advancing the field's understanding and practical applications, such as postal automation and bank check processing, with implications for various industries reliant on automated data processing.
 
 ## Implementation
